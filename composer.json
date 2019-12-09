@@ -1,6 +1,8 @@
 {
     "name": "neto737/address-validator",
     "description": "Cryptocurrency address validation. Currently supports litecoin and bitcoin.",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Neto Melo",
