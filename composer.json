@@ -10,17 +10,10 @@
         }
     ],
     "require": {},
-    "require-dev": {
-        "phpunit/phpunit": "4.0.*"
-    },
+    "require-dev": {},
     "autoload": {
         "psr-4": {
             "neto737\\AddressValidator\\": "src"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "Tests\\": "tests/"
         }
     }
 }
