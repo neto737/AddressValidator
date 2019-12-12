@@ -1,4 +1,4 @@
-# php-cryptocurrency-address-validation
+# Cryptocurrency AddressValidator
 
 Easy to use PHP Bitcoin and Litecoin address validator.
 One day I will add other crypto currencies. Or how about you? :)
